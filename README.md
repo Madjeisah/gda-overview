@@ -35,4 +35,4 @@ $\textbf{A}^{\prime} = \mathcal{H}_{\varphi}(\textbf{X}, \textbf{A})$
 ## Feature-level  Augmentation
 We formulate feature-level augmentation as:
 
-$\textbf{X}^{\prime} = \mathcal{H}^{\varphi}(\textbf{X}, \textbf{A})$ ,
+$\textbf{X}^{\prime} = \mathcal{H}^{\varphi}(\textbf{X}, \textbf{A})$
