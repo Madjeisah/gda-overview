@@ -26,7 +26,7 @@ We formulate topology-level augmentation as:
 
 $\textbf{A}^{\prime} = \mathcal{H}_{\varphi}(\textbf{X}, \textbf{A})$  
 
-
+DropEdge: Towards Deep Graph Convolutional Networks on Node Classification. [[URL]](https://arxiv.org/abs/1907.10903) [[Code]](https://github.com/DropEdge/DropEdge)
 
 
 
